@@ -26,10 +26,3 @@ export async function getStaticProps() {
 }
 
 export default ContactPage;
-
-# touched on 2025-05-27T16:49:24.418243Z
-# touched on 2025-05-27T16:49:31.473888Z
-# touched on 2025-05-27T16:49:34.292341Z
-# touched on 2025-05-27T16:49:45.797411Z
-# touched on 2025-05-27T16:49:48.216606Z
-# touched on 2025-05-27T16:50:15.476302Z
