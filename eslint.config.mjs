@@ -13,11 +13,3 @@ const eslintConfig = [
   ...compat.extends('next/core-web-vitals', 'next/typescript'),
 ];
 export default eslintConfig;
-
-# touched on 2025-05-27T16:49:18.221294Z
-# touched on 2025-05-27T16:49:34.292227Z
-# touched on 2025-05-27T16:49:48.216148Z
-# touched on 2025-05-27T16:49:59.491862Z
-# touched on 2025-05-27T16:50:21.252342Z
-# touched on 2025-05-27T16:50:27.086981Z
-# touched on 2025-05-27T16:50:34.477491Z

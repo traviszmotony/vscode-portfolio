@@ -97,6 +97,3 @@ export async function getStaticProps() {
 }
 
 export default GithubPage;
-
-# touched on 2025-05-27T16:49:18.220262Z
-# touched on 2025-05-27T16:50:27.085915Z

@@ -47,5 +47,3 @@ const Bottombar = () => {
 };
 
 export default Bottombar;
-
-# touched on 2025-05-27T16:50:27.086211Z

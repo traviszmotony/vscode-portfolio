@@ -56,6 +56,3 @@ export const projects: Project[] = [
     slug: "agzaga",
   }
 ];
-
-# touched on 2025-05-27T16:49:31.474049Z
-# touched on 2025-05-27T16:50:27.087123Z

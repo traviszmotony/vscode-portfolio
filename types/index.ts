@@ -24,8 +24,3 @@ export interface User {
   public_repos: number;
   followers: number;
 }
-
-# touched on 2025-05-27T16:49:20.808812Z
-# touched on 2025-05-27T16:49:34.291527Z
-# touched on 2025-05-27T16:49:59.491431Z
-# touched on 2025-05-27T16:50:38.237978Z
